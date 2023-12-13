@@ -1,8 +1,7 @@
-# React + Vite
+# React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Te proporcionamos un código de plantilla simple en React. Tu objetivo es modificar el componente para que puedas alternar correctamente el botón para cambiar entre un estado ENCENDIDO y APAGADO.
 
-Currently, two official plugins are available:
+Cuando el botón está encendido y se hace clic en él, se apaga y el texto dentro de él cambia de ENCENDIDO a APAGADO y viceversa. Utiliza el estado del componente para este desafío.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Eres libre de agregar clases y estilos, pero asegúrate de dejar los ID's de los componentes y las clases proporcionadas tal como están. Envía tu código una vez que esté completo y nuestro sistema validará tu salida.
